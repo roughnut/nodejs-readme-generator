@@ -7,8 +7,6 @@ Challenge is to build a command line README file generator to save the user time
 
 [User Story](#user-story) and [Acceptance Criteria](#acceptance-criteria) are below.
 
-Also included below is my [Process & Learnings](#process--learnings) section.
-
 ## Screenshot
 
 ![screenshot](./images/readme-generator-screenshot.png "link to screenshot")
