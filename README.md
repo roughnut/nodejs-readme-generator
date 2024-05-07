@@ -17,6 +17,10 @@ Also included below is my [Process & Learnings](#process--learnings) section.
 
 [Github repo URL](https://github.com/roughnut/nodejs-readme-generator "link to Github repo") :fork_and_knife:
 
+Fork the repository and use `npm install` to install the dependencies.
+
+Invoke the app using `node index.js`
+
 [Walkthrough video URL](https://drive.google.com/file/d/1eFlhNryPTIxJ85NNV0BH4RVHVulaLXmd/view "link to Screencastify instructional video") :movie_camera:
 
 ## User Story
